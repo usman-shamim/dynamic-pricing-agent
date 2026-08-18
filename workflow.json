@@ -1,0 +1,8 @@
+{
+  "name": "dynamic-pricing-agent",
+  "nodes": [],
+  "connections": {},
+  "settings": {
+    "timezone": "Asia/Karachi"
+  }
+}
